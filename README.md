@@ -1,9 +1,5 @@
 # Mentor
-
-Begeleid en assisteer eerstejaars in jaar 1. 
-
-De instructie vind je in de: [WIKI](https://github.com/fdnd-task/mentor/wiki)
-
+De documentatie van de mentordagen en code & design reviews staan in de [Wiki](https://github.com/SieuwkeSheta/mentor/wiki) van deze repository. 
 
 ## Licentie
 
